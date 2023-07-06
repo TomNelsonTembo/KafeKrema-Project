@@ -1,0 +1,240 @@
+{
+    "html": {
+        "@lang": "en",
+        "@xmlns": "http:\/\/www.w3.org\/1999\/xhtml",
+        "head": {
+            "meta": [
+                {
+                    "@charset": "UTF-8"
+                },
+                {
+                    "@name": "viewport",
+                    "@content": "width=device-width, initial-scale=1.0"
+                },
+                {
+                    "@name": "description",
+                    "@content": "Experience the best cafe in town with a wide range of Hot Drink Options, delicious snacks, and great place to Take stress away with A hot Mocca.."
+                },
+                {
+                    "@property": "og:title",
+                    "@content": "Kafe Krema"
+                },
+                {
+                    "@property": "og:description",
+                    "@content": "Experience the best cafe in town with a wide range of Hot Drink Options, delicious snacks, and great place to Take stress away with A hot Mocca."
+                }
+            ],
+            "link": {
+                "@rel": "stylesheet",
+                "@href": "CSS/Kafe.css"
+            },
+            "title": "Kafe Krema"
+        },
+        "body": {
+            "@itemscope": "itemscope",
+            "@itemtype": "http:\/\/schema.org\/BarOrPub",
+            "header": {
+                "h1": {
+                    "@itemprop": "name",
+                    "_value": "Kafe Krema"
+                }
+            },
+            "nav": {
+                "ul": {
+                    "li": [
+                        {
+                            "a": {
+                                "@href": "#about",
+                                "_value": "About"
+                            }
+                        },
+                        {
+                            "a": {
+                                "@href": "#menu",
+                                "_value": "Menu"
+                            }
+                        },
+                        {
+                            "a": {
+                                "@href": "#news",
+                                "_value": "News"
+                            }
+                        },
+                        {
+                            "a": {
+                                "@href": "#contact",
+                                "_value": "Contact"
+                            }
+                        }
+                    ]
+                }
+            },
+            "section": [
+                {
+                    "@id": "about",
+                    "h2": "About Kafe Krema",
+                    "p": "Our cafe is the perfect place to spend a delightful evening. Our warm and welcoming staff will provide you with outstanding service, and our superb selection of beverages and delectable food will tantalize your taste buds and leave you with a truly unforgettable experience."
+                },
+                {
+                    "@id": "menu",
+                    "h2": "Menu",
+                    "article": [
+                        {
+                            "h3": "Drinks",
+                            "ul": {
+                                "li": [
+                                    "Coffee",
+                                    "Latte",
+                                    "Tea",
+                                    "Chai"
+                                ]
+                            }
+                        },
+                        {
+                            "h3": "Food",
+                            "ul": {
+                                "li": [
+                                    "Croissants",
+                                    "Sandwiches",
+                                    "Muffins"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "news",
+                    "h2": "Latest News",
+                    "article": [
+                        {
+                            "@itemprop": "blogPost",
+                            "@itemscope": "itemscope",
+                            "@itemtype": "http:\/\/schema.org\/BlogPosting",
+                            "h3": {
+                                "@itemprop": "headline",
+                                "_value": "Mocca Boca"
+                            },
+                            "time": {
+                                "@itemprop": "datePublished",
+                                "@datetime": "2023-05-18",
+                                "_value": "May 18,\n2023"
+                            },
+                            "p": {
+                                "@itemprop": "description",
+                                "_value": "Come and join us for an exclusive Mocca Tasting, where you'll have the chance to sample a range of authentic Mocca blends and discover their rich history and unique brewing process. This is an event you won't want to miss, so mark your calendars and join us for a truly unforgettable morning!"
+                            }
+                        },
+                        {
+                            "@itemprop": "blogPost",
+                            "@itemscope": "itemscope",
+                            "@itemtype": "http:\/\/schema.org\/BlogPosting",
+                            "h3": {
+                                "@itemprop": "headline",
+                                "_value": "Latte Tuesday"
+                            },
+                            "time": {
+                                "@itemprop": "datePublished",
+                                "@datetime": "2023-06-05",
+                                "_value": "June 5,\n2023"
+                            },
+                            "p": {
+                                "@itemprop": "description",
+                                "_value": "Kick-start your week with a little pick-me-up at our cafe's Latte Tuesday event. Savor the velvety texture and rich aroma of our signature lattes, expertly crafted by our talented baristas. Every sip is a luxurious indulgence that will leave you feeling energized and ready to take on the day. Don't miss out on this weekly celebration of all things latte, join us and treat yourself to a little bit of heaven in a cup!."
+                            }
+                        },
+                        {
+                            "@itemprop": "blogPost",
+                            "@itemscope": "itemscope",
+                            "@itemtype": "http:\/\/schema.org\/BlogPosting",
+                            "h3": {
+                                "@itemprop": "headline",
+                                "_value": "Chai Croissant Weekend"
+                            },
+                            "time": {
+                                "@itemprop": "datePublished",
+                                "@datetime": "2023-06-20",
+                                "_value": "June 20,\n2023"
+                            },
+                            "p": {
+                                "@itemprop": "description",
+                                "_value": "Warm up your weekend mornings with the perfect combination of spiced chai and buttery croissants, now available at our cafe with an exclusive weekend discount offer. Indulge in the heavenly aroma and taste of our freshly brewed chai, paired with our delectable selection of croissants, including classic butter croissants, chocolate croissants, and almond croissants. Whether you're enjoying a lazy morning at home or need a quick breakfast on the go, our chai croissant weekend discount offer is the perfect way to start your day off right. So come and join us for a cozy and delicious treat that will leave you feeling satisfied and uplifted!."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "contact",
+                    "h2": "Contact Information",
+                    "p": [
+                        {
+                            "@itemprop": "address",
+                            "@itemscope": "itemscope",
+                            "@itemtype": "http:\/\/schema.org\/PostalAddress",
+                            "br": [
+                                [],
+                                []
+                            ],
+                            "span": [
+                                {
+                                    "@itemprop": "streetAddress",
+                                    "_value": "1234 Main Street"
+                                },
+                                {
+                                    "@itemprop": "addressLocality",
+                                    "_value": "Georgia"
+                                },
+                                {
+                                    "@itemprop": "addressRegion",
+                                    "_value": "ATL"
+                                },
+                                {
+                                    "@itemprop": "postalCode",
+                                    "_value": "123\n45"
+                                }
+                            ],
+                            "_value": "Kafe Krema\n\n"
+                        },
+                        {
+                            "br": [
+                                [],
+                                []
+                            ],
+                            "time": [
+                                {
+                                    "@itemprop": "openingHours",
+                                    "@datetime": "Mo,Tu,We,Th,Fr 07:00-15:00",
+                                    "_value": "Monday - Friday: 7:00 PM - 3:00\nPM"
+                                },
+                                {
+                                    "@itemprop": "openingHours",
+                                    "@datetime": "Sa,Su 08:00-14:00",
+                                    "_value": "Saturday\n- Sunday: 8:00 AM - 2:00 PM"
+                                }
+                            ],
+                            "_value": "Opening Hours:"
+                        },
+                        {
+                            "span": {
+                                "@itemprop": "telephone",
+                                "_value": "+420 776 877 109"
+                            },
+                            "_value": "Phone:"
+                        },
+                        {
+                            "span": {
+                                "@itemprop": "email",
+                                "_value": "info@KafeKrema.us"
+                            },
+                            "_value": "Email:"
+                        },
+                        
+                        "For inquiries, reservations, or special requests, please contact\nus."
+                    ]
+                }
+            ],
+            "footer": {
+                "p": "2023 Kafe Krema"
+            }
+        }
+    }
+}

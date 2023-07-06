@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<head>
+         <link href="CSS/Kafe.css" rel="stylesheet" />
+         <meta>
+            <element charset="UTF-8" />
+            <element content="width=device-width, initial-scale=1.0" name="viewport" />
+            <element content="Experience the best cafe in town with a wide range of Hot Drink Options, delicious snacks, and great place to Take stress away with A hot Mocca.." name="description" />
+            <element content="Kafe Krema" property="og:title" />
+            <element content="Experience the best cafe in town with a wide range of Hot Drink Options, delicious snacks, and great place to Take stress away with A hot Mocca." property="og:description" />
+         </meta>
+         <title>Kafe Krema</title>
+<root>
+   <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+      <body itemscope="itemscope" itemtype="https://schema.org/Restaurant">
+         <footer>
+            <p>2023 Kafe Krema</p>
+         </footer>
+         <header>
+            <h1 itemprop="name">
+               <_value>Kafe Krema</_value>
+            </h1>
+         </header>
+         <nav>
+            <ul>
+               <li>
+                  <element>
+                     <a href="#about">
+                        <_value>About</_value>
+                     </a>
+                  </element>
+                  <element>
+                     <a href="#menu">
+                        <_value>Menu</_value>
+                     </a>
+                  </element>
+                  <element>
+                     <a href="#news">
+                        <_value>News</_value>
+                     </a>
+                  </element>
+                  <element>
+                     <a href="#contact">
+                        <_value>Contact</_value>
+                     </a>
+                  </element>
+               </li>
+            </ul>
+         </nav>
+         <section>
+            <element id="about">
+               <h2>About Kafe Krema</h2>
+               <p>Our cafe is the perfect place to spend a delightful evening. Our warm and welcoming staff will provide you with outstanding service, and our superb selection of beverages and delectable food will tantalize your taste buds and leave you with a truly unforgettable experience.</p>
+            </element>
+            <element id="menu">
+               <article>
+                  <element>
+                     <h3>Drinks</h3>
+                     <ul>
+                        <li>
+                           <element>Coffee</element>
+                           <element>Latte</element>
+                           <element>Tea</element>
+                           <element>Chai</element>
+                        </li>
+                     </ul>
+                  </element>
+                  <element>
+                     <h3>Food</h3>
+                     <ul>
+                        <li>
+                           <element>Croissants</element>
+                           <element>Sandwiches</element>
+                           <element>Muffins</element>
+                        </li>
+                     </ul>
+                  </element>
+               </article>
+               <h2>Menu</h2>
+            </element>
+            <element id="news">
+               <article>
+                  <element itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+                     <h3 itemprop="headline">
+                        <_value>Mocca Boca</_value>
+                     </h3>
+                     <p itemprop="description">
+                        <_value>Come and join us for an exclusive Mocca Tasting, where you'll have the chance to sample a range of authentic Mocca blends and discover their rich history and unique brewing process. This is an event you won't want to miss, so mark your calendars and join us for a truly unforgettable morning!</_value>
+                     </p>
+                     <time datetime="2023-05-18" itemprop="datePublished">
+                        <_value>May 18,2023</_value>
+                     </time>
+                  </element>
+                  <element itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+                     <h3 itemprop="headline">
+                        <_value>Latte Tuesday</_value>
+                     </h3>
+                     <p itemprop="description">
+                        <_value>Kick-start your week with a little pick-me-up at our cafe's Latte Tuesday event. Savor the velvety texture and rich aroma of our signature lattes, expertly crafted by our talented baristas. Every sip is a luxurious indulgence that will leave you feeling energized and ready to take on the day. Don't miss out on this weekly celebration of all things latte, join us and treat yourself to a little bit of heaven in a cup!.</_value>
+                     </p>
+                     <time datetime="2023-06-05" itemprop="datePublished">
+                        <_value>June 5,2023</_value>
+                     </time>
+                  </element>
+                  <element itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+                     <h3 itemprop="headline">
+                        <_value>Chai Croissant Weekend</_value>
+                     </h3>
+                     <p itemprop="description">
+                        <_value>Warm up your weekend mornings with the perfect combination of spiced chai and buttery croissants, now available at our cafe with an exclusive weekend discount offer. Indulge in the heavenly aroma and taste of our freshly brewed chai, paired with our delectable selection of croissants, including classic butter croissants, chocolate croissants, and almond croissants. Whether you're enjoying a lazy morning at home or need a quick breakfast on the go, our chai croissant weekend discount offer is the perfect way to start your day off right. So come and join us for a cozy and delicious treat that will leave you feeling satisfied and uplifted!.</_value>
+                     </p>
+                     <time datetime="2023-06-20" itemprop="datePublished">
+                        <_value>June 20,2023</_value>
+                     </time>
+                  </element>
+               </article>
+               <h2>Latest News</h2>
+            </element>
+            <element id="contact">
+               <h2>Contact Information</h2>
+               <p>
+                  <element itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+                     <_value>Kafe Krema</_value>
+                     <br>
+                        <element />
+                        <element />
+                     </br>
+                     <span>
+                        <element itemprop="streetAddress">
+                           <_value>1234 Main Street</_value>
+                        </element>
+                        <element itemprop="addressLocality">
+                           <_value>Georgia</_value>
+                        </element>
+                        <element itemprop="addressRegion">
+                           <_value>ATL</_value>
+                        </element>
+                        <element itemprop="postalCode">
+                           <_value>123 45</_value>
+                        </element>
+                     </span>
+                  </element>
+                  <element>
+                     <_value>Opening Hours:</_value>
+                     <br>
+                        <element />
+                        <element />
+                     </br>
+                     <time>
+                        <element datetime="Mo,Tu,We,Th,Fr 07:00-15:00" itemprop="openingHours">
+                           <_value>Monday - Friday: 7:00 PM - 3:00PM</_value>
+                        </element>
+                        <element datetime="Sa,Su 08:00-14:00" itemprop="openingHours">
+                           <_value>Saturday- Sunday: 8:00 AM - 2:00 PM</_value>
+                        </element>
+                     </time>
+                  </element>
+                  <element>
+                     <_value>Phone:</_value>
+                     <span itemprop="telephone">
+                        <_value>+420 776 877 109</_value>
+                     </span>
+                  </element>
+                  <element>
+                     <_value>Email:</_value>
+                     <span itemprop="email">
+                        <_value>info@KafeKrema.us</_value>
+                     </span>
+                  </element>
+                  <element>For inquiries, reservations, or special requests, please contactus.</element>
+               </p>
+            </element>
+         </section>
+      </body>
+      
+      </head>
+   </html>
+</root>
